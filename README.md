@@ -8,6 +8,7 @@ Inspiring sites and articles about programming.
 - [Protocol-Oriented MVVM in Swift 2.0](https://www.natashatherobot.com/updated-protocol-oriented-mvvm-in-swift-2-0/)
 - [Introduction to VIPER](http://mutualmobile.github.io/blog/2013/12/04/viper-introduction/)
 - [Functor and Monad in Swift](http://www.javiersoto.me/post/106875422394)
+- [Swift Functors, Applicatives, and Monads in Pictures](http://www.mokacoding.com/blog/functor-applicative-monads-in-pictures/)
 
 #### Async, Concurrent
 - [Async](https://github.com/duemunk/Async)
