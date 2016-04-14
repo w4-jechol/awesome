@@ -1,7 +1,6 @@
-# awesome
-Inspiring sites and articles about programming.
+Inspiring sites, library and articles about programming.
 
-### iOS & Swift
+# iOS & Swift
 - [Protocol-Oriented Segue Identifiers in Swift](https://www.natashatherobot.com/protocol-oriented-segue-identifiers-swift/)
 - [What the 55 Swift Standard Library Protocols Taught Me](https://www.skilled.io/gregheo/what-the-55-swift-standard-library-protocols-taught-me)
 - [Mixins and Traits in Swift 2.0](http://matthijshollemans.com/2015/07/22/mixins-and-traits-in-swift-2/)
@@ -10,11 +9,11 @@ Inspiring sites and articles about programming.
 - [Functor and Monad in Swift](http://www.javiersoto.me/post/106875422394)
 - [Swift Functors, Applicatives, and Monads in Pictures](http://www.mokacoding.com/blog/functor-applicative-monads-in-pictures/)
 
-#### Async, Concurrent
+### Async, Concurrent
 - [Async](https://github.com/duemunk/Async)
 - [BrightFutures](https://github.com/Thomvis/BrightFutures)
 
 
-### Elm
+# Elm
 - ["Make the Back-End Team Jealous: Elm in Production" by Richard Feldman](https://www.youtube.com/watch?v=FV0DXNB94NE)
 - [Walkthrough: Introducing Elm to a JS Web App](http://tech.noredink.com/post/126978281075/walkthrough-introducing-elm-to-a-js-web-app)
