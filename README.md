@@ -17,7 +17,7 @@ Inspiring sites, library and articles about programming.
 ##### Async, Concurrent
 - [Swift Sync and Async Error Handling](https://www.youtube.com/watch?v=mbd6g7NfR-8)
 - [Async](https://github.com/duemunk/Async)
-- [BrightFutures](https://github.com/Thomvis/BrightFutures)
+- [The Bright Future of Swift](http://www.thedotpost.com/2016/01/thomas-visser-the-bright-future-of-swift)
 
 # iOS
 
