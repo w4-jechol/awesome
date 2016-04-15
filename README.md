@@ -15,10 +15,13 @@ Inspiring sites, library and articles about programming.
 ##### Functional programming
 - [Functor and Monad in Swift](http://www.javiersoto.me/post/106875422394)
 - [Swift Functors, Applicatives, and Monads in Pictures](http://www.mokacoding.com/blog/functor-applicative-monads-in-pictures/)
+- [Laziness in Swift](https://www.youtube.com/watch?v=1w2WEs0UjAA)
+
 
 ##### Async, Concurrent
 - [Async](https://github.com/duemunk/Async)
 - [BrightFutures](https://github.com/Thomvis/BrightFutures)
+- 
 
 
 # Elm
