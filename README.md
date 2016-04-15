@@ -21,7 +21,7 @@ Inspiring sites, library and articles about programming.
 ##### Async, Concurrent
 - [Async](https://github.com/duemunk/Async)
 - [BrightFutures](https://github.com/Thomvis/BrightFutures)
-
+- [Swift Sync and Async Error Handling](https://www.youtube.com/watch?v=mbd6g7NfR-8)
 
 
 # Elm
