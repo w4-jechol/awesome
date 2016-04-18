@@ -25,6 +25,8 @@ Inspiring sites, library and articles about programming.
 - [Protocol-Oriented MVVM in Swift 2.0](https://www.natashatherobot.com/updated-protocol-oriented-mvvm-in-swift-2-0/)
 - [Introduction to VIPER](http://mutualmobile.github.io/blog/2013/12/04/viper-introduction/)
 
+##### Animation
+- [IBAnimatable](https://github.com/JakeLin/IBAnimatable)
 
 # Elm
 - ["Make the Back-End Team Jealous: Elm in Production" by Richard Feldman](https://www.youtube.com/watch?v=FV0DXNB94NE)
