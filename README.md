@@ -31,6 +31,10 @@ Inspiring sites, library and articles about programming.
 ##### Animation
 - [Tutorial](https://www.raywenderlich.com/113674/ios-animation-tutorial-getting-started)
 - [IBAnimatable](https://github.com/JakeLin/IBAnimatable)
+ 
+##### Distribution
+- [iOS Code Signing: Under The Hood](https://www.raywenderlich.com/2915/ios-code-signing-under-the-hood)
+
 
 
 # Elm
