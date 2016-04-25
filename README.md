@@ -28,6 +28,12 @@ Inspiring sites, library and articles about programming.
 ##### UIKit
 - [Dwifft](https://github.com/jflinter/Dwifft)
 
+##### CALayer
+- Best Tutorials
+ - [CAShapeLayer animation pitfall](https://www.raywenderlich.com/123813/video-tutorial-calayers-part-3-cashapelayer-2)
+ - [CALayer subclasses with 10 examples](https://www.raywenderlich.com/90488/calayer-in-ios-with-swift-10-examples)
+  
+ 
 ##### Animation
 - [Tutorial](https://www.raywenderlich.com/113674/ios-animation-tutorial-getting-started)
 - [IBAnimatable](https://github.com/JakeLin/IBAnimatable)
